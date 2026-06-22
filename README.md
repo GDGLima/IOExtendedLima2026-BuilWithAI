@@ -30,7 +30,7 @@ Durante dos días, la comunidad exploró cómo construir soluciones modernas con
 
 | Ponente         | Charla                                                                                       | Material                                                                                                  |
 | --------------- | -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Angela Enciso   | No son Apps, son Agentes: El futuro del desarrollo con Gemini y Vertex AI                    | [📄 Ver presentación](https://drive.google.com/file/d/1B1TM5tlUNVSfd_yQdGEg9rZzycoUALgq/view?usp=sharing) |
+| Angela Enciso   | No son Apps, son Agentes: El futuro del desarrollo con Gemini y Vertex AI                    | [📄 Ver presentación](https://drive.google.com/file/d/1B1TM5tlUNVSfd_yQdGEG9rZzycoUALgq/view?usp=sharing) |
 | Enzo Venturi    | Do Not Trust the Agent                                                                       | [📄 Ver presentación](https://drive.google.com/file/d/1NVa0HltapIL1Dgjb1yCgnYtK7mhPq-QR/view?usp=sharing) |
 | Luis Suarez     | Angular vs el resto del mundo                                                                | [📄 Ver presentación](https://drive.google.com/file/d/1l6MO-L2jg-FxfffNgs65Qoc8YQ-2pzE6/view?usp=sharing) |
 | Fernando Campos | Agentes IA de Voz con Gemini y Google CX Agent Studio integrados a Contact Center            | [📄 Ver presentación](https://drive.google.com/file/d/1BRzQiRQNwTM5pe77L9b2x3l6_kDRD4ME/view?usp=sharing) |
